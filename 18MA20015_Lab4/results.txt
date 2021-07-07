@@ -1,0 +1,24 @@
+KNN Results:
+
+The accuracy of the model with 2 neighbours is 72.22%
+The accuracy of the model with 3 neighbours is 80.56%
+The accuracy of the model with 4 neighbours is 75.0%
+The accuracy of the model with 5 neighbours is 72.22%
+The accuracy of the model with 6 neighbours is 72.22%
+The accuracy of the model with 7 neighbours is 69.44%
+The accuracy of the model with 8 neighbours is 72.22%
+The accuracy of the model with 9 neighbours is 72.22%
+
+_________________________________________________________________________________________
+
+CKNN Results:
+
+The accuracy of the model with 2 neighbours is 77.78%, and the percentage of training data reduction is 38.03%
+The accuracy of the model with 3 neighbours is 77.78%, and the percentage of training data reduction is 35.21%
+The accuracy of the model with 4 neighbours is 69.44%, and the percentage of training data reduction is 35.21%
+The accuracy of the model with 5 neighbours is 72.22%, and the percentage of training data reduction is 40.14%
+The accuracy of the model with 6 neighbours is 66.67%, and the percentage of training data reduction is 35.92%
+The accuracy of the model with 7 neighbours is 63.89%, and the percentage of training data reduction is 36.62%
+The accuracy of the model with 8 neighbours is 66.67%, and the percentage of training data reduction is 38.03%
+The accuracy of the model with 9 neighbours is 66.67%, and the percentage of training data reduction is 42.96%
+

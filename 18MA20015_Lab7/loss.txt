@@ -1,0 +1,8 @@
+For k = 2 we get the loss value as 247.79839755256427
+For k = 3 we get the loss value as 245.08835897747147
+For k = 4 we get the loss value as 240.23481236321263
+For k = 5 we get the loss value as 236.8842895061388
+For k = 6 we get the loss value as 231.62184968348413
+For k = 7 we get the loss value as 226.50348982796694
+For k = 8 we get the loss value as 217.67097636307557
+For k = 9 we get the loss value as 213.83336871124104
